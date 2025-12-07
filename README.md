@@ -31,9 +31,9 @@
 [![](https://visitcount.itsvg.in/api?id=Saif-Sebai&icon=1&color=12)](https://visitcount.itsvg.in)
 
 
-ps: if you're a tech-guru don't pay much attention to that git graph uwu
-It's there just as an Huwuman resources bypass...
-(I do tend to work on my own like a LOT, I just rarely bother to commit to public repos)
+ps: if you're a tech-guru don't pay much attention to that git graph uwu <br>
+It's there just as an Huwuman resources bypass... <br>
+(I do tend to work on my own like a LOT, I just rarely bother to commit to public repos) <br>
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
