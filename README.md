@@ -2,9 +2,9 @@
 
 <h1 align="center">Yo, I'm Seif Sebai (aka. SIFU)</h1>
 <h3 align="center">A passionate developer / Infosec enthusiast!!</h3>
-
-<img src="./gits.gif" style="display: flex;justify-content: center;">
-
+<p align="center">
+<img src="./gits.gif" style="">
+</p>
 - 👨‍💻 All of my projects are available at <a href="https://seifsebai.com/">seifsebai.com</a>
 
 - 👨‍💻 I also have blogs at <a href="https://blogs.seifsebai.com/">blogs.seifsebai.com</a>
