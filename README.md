@@ -5,6 +5,7 @@
 <p align="center">
 <img src="./gits.gif" style="">
 </p>
+
 - 👨‍💻 All of my projects are available at <a href="https://seifsebai.com/">seifsebai.com</a>
 
 - 👨‍💻 I also have blogs at <a href="https://blogs.seifsebai.com/">blogs.seifsebai.com</a>
