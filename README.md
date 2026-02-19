@@ -1,7 +1,9 @@
-<!-- ### Hi there 👋 -->
 
-<h1 align="center">Hi 👋, I'm Seif Sebai</h1>
+
+<h1 align="center">Yo, I'm Seif Sebai (aka. SIFU)</h1>
 <h3 align="center">A passionate developer / Infosec enthusiast!!</h3>
+
+<img src="./gits.gif" style="display: flex;justify-content: center;">
 
 - 👨‍💻 All of my projects are available at <a href="https://seifsebai.com/">seifsebai.com</a>
 
